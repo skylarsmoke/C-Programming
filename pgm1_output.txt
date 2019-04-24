@@ -1,0 +1,40 @@
+All Classes By Class Number
+Joy and Beauty of Computing                     CSCI107, MWF, 1000-1050, Freshman
+Programming in C                                CSCI112, MWF, 0900-0950, Sophomore
+Joy and Beauty of Data                          CSCI127, MWF, 1200-1250, Freshman
+Intro to Data Structures                        CSCI132, TR, 1100-1150, Freshman
+Social and Ethical Issues in Computer Science   CSCI215, TR, 1300-1350, Sophomore
+Data Structures and Algorithms                  CSCI232, MWF, 1100-1150, Sophomore
+Discrete Structures                             CSCI246, MWF, 1300-1350, Sophomore
+Intro to Data Mining                            CSCI301, MWF, 0800-0850, Junior
+Programming Languages                           CSCI305, TR, 1200-1250, Junior
+Computational Theory                            CSCI338, TR, 1000-1050, Junior
+System Administration                           CSCI351, TR, 1500-1550, Junior
+Robot Vision                                    CSCI442, MWF, 1500-1550, Senior
+Artificial Intelligence                         CSCI446, TR, 0900-0950, Senior
+Machine Learning                                CSCI447, MWF, 1400-1450, Senior
+Compilers                                       CSCI468, TR, 1400-1450, Senior
+
+All Classes on MWF
+Intro to Data Mining                            CSCI301, MWF, 0800-0850, Junior
+Programming in C                                CSCI112, MWF, 0900-0950, Sophomore
+Joy and Beauty of Computing                     CSCI107, MWF, 1000-1050, Freshman
+Data Structures and Algorithms                  CSCI232, MWF, 1100-1150, Sophomore
+Joy and Beauty of Data                          CSCI127, MWF, 1200-1250, Freshman
+Discrete Structures                             CSCI246, MWF, 1300-1350, Sophomore
+Machine Learning                                CSCI447, MWF, 1400-1450, Senior
+Robot Vision                                    CSCI442, MWF, 1500-1550, Senior
+
+All Classes at MWF 0900
+Programming in C                                CSCI112, MWF, 0900-0950, Sophomore
+
+All Classes at TR 1100
+Intro to Data Structures                        CSCI132, TR, 1100-1150, Freshman
+
+Classes offered to junior
+Intro to Data Mining                            CSCI301, MWF, 0800-0850, Junior
+Programming Languages                           CSCI305, TR, 1200-1250, Junior
+Computational Theory                            CSCI338, TR, 1000-1050, Junior
+System Administration                           CSCI351, TR, 1500-1550, Junior
+
+
